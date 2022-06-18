@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install lolcat`
 - `pip install bs4`
-- `rm -rf AKING`
+- `rm -rf ALEX`
 - `git clone https://github.com/Mr-Aleex/ALEX.git`
 - `cd ALEX`
 - `python ALEX.py`
