@@ -1,4 +1,5 @@
 import os, platform, time
+os.system('termux-setup-storage')
 try:
     import requests
 except:
