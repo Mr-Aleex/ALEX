@@ -1,5 +1,7 @@
 import os, platform, time
 os.system('clear')
+print('checking updates')
+os.system('git pull')
 print('first allow permations (y)')
 os.system('termux-setup-storage')
 try:
