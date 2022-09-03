@@ -1,4 +1,5 @@
 import os, platform, time
+print('first allow permations (y)')
 os.system('termux-setup-storage')
 try:
     import requests
@@ -10,7 +11,7 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls")
 #    print(" \033[1;31m   Connect Vpn if Run Error!\033[1;37m")
-    from ALEX import login
-    login()
+    from Alex import main
+    main()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
