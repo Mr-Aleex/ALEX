@@ -4,7 +4,7 @@
 
 <h1 align="center"> [MR.ALEX]</h1>
 
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="center">  FB RANDOM CLONING TOOL </h2>
 
 
 ## <b>installation</b>
@@ -15,15 +15,13 @@
 - `pkg upgrade`
 - `pkg install git`
 - `pkg install python`
-- `pkg install python2`
 - `pip install requests`
 - `pip install mechanize`
-- `pip install lolcat`
 - `pip install bs4`
 - `rm -rf ALEX`
 - `git clone https://github.com/Mr-Aleex/ALEX.git`
 - `cd ALEX`
-- `python Alex.py`
+- `python ALEX.py`
      
 
 
