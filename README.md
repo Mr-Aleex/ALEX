@@ -4,7 +4,7 @@
 
 <h1 align="center"> [MR.ALEX]</h1>
 
-<h2 align="center">  FB RANDOM CLONING TOOL </h2>
+<h2 align="center">  FB CLONING TOOL </h2>
 
 
 ## <b>installation</b>
