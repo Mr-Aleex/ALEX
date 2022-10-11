@@ -21,7 +21,7 @@
 - `rm -rf ALEX`
 - `git clone https://github.com/Mr-Aleex/ALEX.git`
 - `cd ALEX`
-- `python ALEX.py`
+- `python Alex.py`
      
 
 
